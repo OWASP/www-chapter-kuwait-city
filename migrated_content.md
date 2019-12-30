@@ -32,10 +32,10 @@ Twitter Account: <https://twitter.com/OWASPKuwait/>
 AlQallaf
 
 \- 7:30-8:00pm SCADA Control system Security. By: Dr. Sulaiman AlHasawi
-[1](https://www.owasp.org/images/9/99/Owasp-1-Trisis_Alhasawi.pdf)
+[1](/www-pdf-archive/Owasp-1-Trisis_Alhasawi.pdf)
 
 \- 8:00-8:30pm Advanced Pentesting Demo. By: Eng. Fatma Yousef
-[2](https://www.owasp.org/images/b/b5/Fatma_Presentation.pdf)
+[2](/www-pdf-archive/Fatma_Presentation.pdf)
 
 \- 8:30-9:00pm Closing and Networking.
 
@@ -110,4 +110,4 @@ users from the various adversaries. The cheat sheet is located at: [User
 Privacy Protection Cheat
 Sheet](https://www.owasp.org/index.php/User_Privacy_Protection_Cheat_Sheet)
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
