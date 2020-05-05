@@ -2,11 +2,17 @@
 
 layout: col-sidebar
 title: OWASP Kuwait City
-tags: example-tag
+tags: kuwait
 level: 0
-
 region: Middle East
+currency: kwd
 
+---
+<!-- rebuild -->
+
+OWASP Kuwait City
+-------------
+Welcome to the Kuwait city chapter homepage. The chapter leader is <a href="mailto:fahad.alqallaf@owasp.org">Fahad AlQallaf</a> , follow us [Twitter](https://twitter.com/OWASPKuwait)
 
 ---
 ## Local News
@@ -16,11 +22,11 @@ Everyone is welcome to join us at our chapter meetings. مرحبا بالجمي�
 
 Twitter Account: <https://twitter.com/OWASPKuwait/>
 
-### Next meeting will be scheduled in near future.
+### Next meeting will be scheduled in near future. We will keep you posted.
 
 ## Past Events
 
-`April 2019 meeting:`
+`April 2019 meeting:`
 
 **Date**: Monday, April 1, 2019 7:00 PM to 9:00 PM
 
@@ -39,7 +45,7 @@ AlQallaf
 
 \- 8:30-9:00pm Closing and Networking.
 
-`October 2017 meeting:`
+`October 2017 meeting:`
 
 **Date التاريخ** 4 من اكتوبر 2017، الساعة 12:30 مساءً October the 4th,
 2017. At 12:30 PM
@@ -55,7 +61,7 @@ Introduction to web app security, attacks, and defenses.
 جامعة الكويت، كلية الهندسة، قاعة 109 Kuwait University, Khaldiya Campus,
 Hall 109
 
-`Cyber Security Summit 2013:`
+`Cyber Security Summit 2013:`
 
 قام م. محمد الدوب رئيس فرع أواسب بالكويت بالقاء محاضرة بمؤتمر Cyber
 Security Summit
@@ -80,7 +86,7 @@ confuse attackers.
 
 <https://www.owasp.org/images/a/a9/InvadersAtTheGates.ppt>
 
-`September 2012 meeting:`
+`September 2012 meeting:`
 
 **Date التاريخ** ٢٩ من سبتمبر ٢٠١٢، الساعة الثامنة و النصف مساءاً
 September the 29th, 2012. At 8:30 PM
@@ -99,11 +105,11 @@ discussion about the state of web security in Kuwait.
 Technology Society (KITS), Rawda area
 
 الروضة – قطعة 3 – ش ابوحيان التوحيدي – جادة 37 – منزل رقم 20
-هاتف :22529303 فاكس : 22527986
+هاتف :22529303 فاكس : 22527986
 
 ## Contributions
 
-The User Privacy Protection Cheat Sheet, written by Kuwait chapter
+The User Privacy Protection Cheat Sheet, written by Kuwait chapter previous
 leader Mohammed ALDOUB, discusses methods and techniques in which web
 developers can protect the privacy, anonymity and identity of their
 users from the various adversaries. The cheat sheet is located at: [User
