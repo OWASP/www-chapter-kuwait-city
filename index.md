@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Kuwait City
 tags: kuwait
 level: 0
-region: Middle East
+region: Asia
 currency: kwd
 
 ---
