@@ -6,6 +6,9 @@ tags: kuwait
 level: 0
 region: Asia
 currency: kwd
+meetup-group: OWASP-Kuwait-City-Chapter
+country: Kuwait
+postal-code: 
 
 ---
 <!-- rebuild -->
