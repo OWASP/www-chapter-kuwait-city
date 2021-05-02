@@ -26,6 +26,8 @@ Everyone is welcome to join us at our chapter meetings. مرحبا بالجمي�
 Twitter Account: <https://twitter.com/OWASPKuwait/>
 
 ### Next meeting will be scheduled in near future. We will keep you posted.
+Upcoming Events
+{% include chapter_events.html group=page.meetup-group %}
 
 ## Past Events
 
