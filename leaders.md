@@ -1,4 +1,4 @@
 ### Leaders 
 
-* [Omar Almutairy](mailto:omar.almutairy@owasp.org)
+* [Omar Mutairy](mailto:omar.mutairy@owasp.org)
 * [Faisal Albuloshi](mailto:faisal.albuloshi@owasp.org)
