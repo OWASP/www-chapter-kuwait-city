@@ -15,7 +15,13 @@ postal-code:
 
 OWASP Kuwait City
 -------------
-Welcome to the Kuwait city chapter homepage. The chapter leader is <a href="mailto:fahad.alqallaf@owasp.org">Fahad AlQallaf</a> , follow us [Twitter](https://twitter.com/OWASPKuwait)
+Welcome to the Kuwait city chapter homepage. OWASP Kuwait Chapter is focusing on supporting cyber security community in Kuwait. 
+Chapter leaders are: Omar Almutairi and Faisal Albuloushi. 
+Main chapter activities are:
+1. Public cyber security awareness
+2. Technical cyber security workshops and sessions
+3. Consultations and support
+All chapter activites are available to public audiences for free.
 
 ---
 ## Local News
