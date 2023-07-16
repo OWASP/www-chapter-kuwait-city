@@ -9,8 +9,3 @@
 * [Twitter](https://twitter.com/OWASPKuwait)
 * [Meetup.com](https://www.meetup.com/OWASP-Kuwait-City-Chapter/)
 * Mailing List *(Under preparation)*
-
-### Kuwait Chapter Leaders
-* [Omar Almutairi](omar.almutairi@owasp.org)
-
-* [Faisal Albuloushi](faisal.albuloshi@owasp.org)
