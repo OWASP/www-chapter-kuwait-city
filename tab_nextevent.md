@@ -18,6 +18,4 @@ OWASP Kuwait Chapter upcoming events can be found on Meetup:
 
 [https://www.meetup.com/OWASP-Kuwait-City-Chapter/](https://www.meetup.com/OWASP-Kuwait-City-Chapter/)
 
----
-
 {% include chapter_events.html group=page.meetup-group %}
