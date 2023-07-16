@@ -39,6 +39,6 @@ At the OWASP Kuwait Chapter, we thrive on active participation from individuals 
 [Faisal Albuloushi](faisal.albuloshi@owasp.org)
 
 ## Social Media
-Please follow OWASP Kuwait Chapter on [Twiter](https://twitter.com/OWASPKuwait)/[LinkedIn](https://www.linkedin.com/company/owasp-kuwait-chapter/) and sign up to our mailing list to be notified about the upcoming OWASP Kuwait Chapter events.
+Please follow OWASP Kuwait Chapter on [Twiter](https://twitter.com/OWASPKuwait), [LinkedIn](https://www.linkedin.com/company/owasp-kuwait-chapter/), [Meetup](https://www.meetup.com/OWASP-Kuwait-City-Chapter/) and sign up to our mailing list to be notified about the upcoming OWASP Kuwait Chapter events.
 
 ---
