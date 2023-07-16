@@ -41,3 +41,5 @@ tags: kuwait
 
 **Agenda:**
 -	10:00am: Introduction to OWASP, its goals, projects, and membership. Brief discussion about the status of web security in Kuwait. By: Eng. Mohammed AlDoub.
+
+---
