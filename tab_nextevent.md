@@ -11,11 +11,10 @@ tags: kuwait
 
 # Next Meeting/Event(s)
 
-Please follow OWASP Kuwait on [Twiter](https://twitter.com/OWASPKuwait)/[LinkedIn](https://www.linkedin.com/company/owasp-kuwait-chapter/) or join our Mailing List to be notified as soon as the next event date and location is announced.
+Please follow OWASP Kuwait Chapter on the following channels to be notified as soon as the next event date and location is announced.
 
----
-OWASP Kuwait Chapter upcoming events can be found on Meetup:
+[LinkedIn](https://www.linkedin.com/company/owasp-kuwait-chapter/)
 
-[https://www.meetup.com/OWASP-Kuwait-City-Chapter/](https://www.meetup.com/OWASP-Kuwait-City-Chapter/)
+[Twitter](https://twitter.com/OWASPKuwait)
 
-{% include chapter_events.html group=page.meetup-group %}
+[Meetup](https://www.meetup.com/OWASP-Kuwait-City-Chapter/)
