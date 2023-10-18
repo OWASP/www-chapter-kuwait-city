@@ -11,6 +11,22 @@ tags: kuwait
 
 # Past Events
 
+### Sunday, October 15, 2023 (In-person)
+
+**Location:** University Conference Centre, Kuwait University, Kuwait.
+
+**Speaker:** [Faisal Albuloushi](faisal.albuloushi@owasp.org)
+
+**Agenda:**
+-	What is OWASP?
+-	Supply Chain Risk
+-	SBOM Definition
+-	OWASP CycloneDX
+-	OWASP Dependency-Track
+-	Recommendations
+
+---
+
 ### Monday, April 1, 2019 (In-person)
 
 **Location:** Sirdab Lab, Jaber alMubarak Street, Sharq.
