@@ -38,11 +38,9 @@ At the OWASP Kuwait Chapter, we thrive on active participation from individuals 
 
 [Faisal Albuloushi](mailto:faisal.albuloshi@owasp.org)
 
-[Dr. Safaa Zaman](mailto:safaa.zaman@owasp.org)
-
 [Khaled Almeasab](mailto:khaled.almesab@owasp.org)
 
 ## Social Media
-Please follow OWASP Kuwait Chapter on [Twiter](https://twitter.com/OWASPKuwait), [LinkedIn](https://www.linkedin.com/company/owasp-kuwait-chapter/), [Meetup](https://www.meetup.com/OWASP-Kuwait-City-Chapter/) and sign up to our mailing list to be notified about the upcoming OWASP Kuwait Chapter events.
+Please follow OWASP Kuwait Chapter on [Twiter](https://twitter.com/OWASPKuwait), [LinkedIn](https://www.linkedin.com/company/owasp-kuwait-chapter/), [Meetup](https://www.meetup.com/OWASP-Kuwait-City-Chapter/) and [Youtube](https://www.youtube.com/@OWASPKuwait) to be notified about the upcoming OWASP Kuwait Chapter events.
 
 ---
