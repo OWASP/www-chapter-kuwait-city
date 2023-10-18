@@ -25,6 +25,10 @@ tags: kuwait
 -	OWASP Dependency-Track
 -	Recommendations
 
+**Presentation:** [here](https://github.com/OWASP/www-chapter-kuwait-city/blob/df08b06b687e4b1b70e2496b5483aaf2a97cea2d/assets/CERC%202023.pdf)
+
+**Video:** [here](https://www.youtube.com/watch?v=rLbulIuBTpE)
+
 ---
 
 ### Monday, April 1, 2019 (In-person)
