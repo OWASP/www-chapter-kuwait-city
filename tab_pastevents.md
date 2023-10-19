@@ -15,7 +15,7 @@ tags: kuwait
 
 **Location:** University Conference Centre, Kuwait University, Kuwait.
 
-**Speaker:** [Faisal Albuloushi](faisal.albuloushi@owasp.org)
+**Speaker:** Faisal Albuloushi - OWASP Kuwait Chapter Leader
 
 **Agenda:**
 -	What is OWASP?
