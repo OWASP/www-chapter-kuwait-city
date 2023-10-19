@@ -8,4 +8,4 @@
 * [LinkedIn](https://www.linkedin.com/company/owasp-kuwait-chapter/)
 * [Twitter](https://twitter.com/OWASPKuwait)
 * [Meetup.com](https://www.meetup.com/OWASP-Kuwait-City-Chapter/)
-* Mailing List *(Under preparation)*
+* [Youtube](https://www.youtube.com/@OWASPKuwait)
