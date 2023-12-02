@@ -11,6 +11,20 @@ tags: kuwait
 
 # Past Events
 
+### Wednesday, November 29, 2023
+
+**Location:** Virtual
+
+**Speaker:** Dan Barahona
+
+**Time:** 07:00 to 08:00 PM (GMT+3)
+
+**Subject:** OWASP API Security Top 10
+
+**Video:** [here](https://www.youtube.com/watch?v=p9zm7pEjNFE)
+
+---
+
 ### Sunday, October 15, 2023 (In-person)
 
 **Location:** University Conference Centre, Kuwait University, Kuwait.
