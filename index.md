@@ -18,7 +18,7 @@ postal-code:
 
 Welcome to the OWASP Kuwait City Chapter!
 
-We are delighted to have you join us as we embark on a journey to explore the world of web application security. It is with great pleasure that we introduce ourselves as the Chapter leaders: Omar Almutairi, Faisal Albuloushi, and Khaled Almeasab.
+We are delighted to have you join us as we embark on a journey to explore the world of web application security. It is with great pleasure that we introduce ourselves as the Chapter leaders: Omar Almutairi, Faisal Albuloushi, Khaled Almeasab and Fatimah AlYousef.
 
 Here at OWASP Kuwait City, our primary goal is to raise awareness about the crucial importance of securing web applications. We strive to cultivate a thriving community of cybersecurity enthusiasts who are passionate about safeguarding digital landscapes. Through engaging events, interactive workshops, and knowledge-sharing initiatives, we empower professionals, students, and organizations with the tools and insights needed to tackle emerging threats.
 
