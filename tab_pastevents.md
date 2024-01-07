@@ -11,6 +11,20 @@ tags: kuwait
 
 # Past Events
 
+### Wednesday December 27, 2023
+
+**Location:** Virtual
+
+**Speaker:** Eng. Fatimah AlYousuf
+
+**Time:** 07:00 to 08:00 PM (GMT+3)
+
+**Subject:** OWASP Software Assurance Maturity Model (SAMM)
+
+**Video**: [here](https://www.youtube.com/watch?v=REHn1kgjim8)
+
+---
+
 ### Wednesday, November 29, 2023
 
 **Location:** Virtual
