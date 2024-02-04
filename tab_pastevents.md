@@ -11,7 +11,7 @@ tags: kuwait
 
 # Past Events
 
-### Saturday February 03, 2023
+### Saturday February 03, 2023 (In-person)
 
 **Location:** KIF Hall 6 - أرض المعارض
 
