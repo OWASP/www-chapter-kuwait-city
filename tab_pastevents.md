@@ -11,6 +11,20 @@ tags: kuwait
 
 # Past Events
 
+### Saturday February 03, 2023
+
+**Location:** KIF Hall 6 - أرض المعارض
+
+**Speaker:** Eng. Omar Almutairi
+
+**Time:** 06:30 to 07:30 PM
+
+**Subject:** Securing Digital Life
+
+**Details:** Can be found [here](https://meetu.ps/e/MSvCD/12mrKn/i)
+
+---
+
 ### Wednesday December 27, 2023
 
 **Location:** Virtual
