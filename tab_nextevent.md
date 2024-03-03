@@ -20,3 +20,5 @@ Please follow OWASP Kuwait Chapter on the following channels to be notified as s
 [Meetup](https://www.meetup.com/OWASP-Kuwait-City-Chapter/)
 
 ---
+
+{% include chapter_events.html group=page.meetup-group %}
