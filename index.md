@@ -46,5 +46,3 @@ At the OWASP Kuwait City Chapter, we thrive on active participation from individ
 Please follow OWASP Kuwait City Chapter on [Twiter](https://twitter.com/OWASPKuwait), [LinkedIn](https://www.linkedin.com/company/owasp-kuwait-chapter/), [Meetup](https://www.meetup.com/OWASP-Kuwait-City-Chapter/) and [Youtube](https://www.youtube.com/@OWASPKuwait) to be notified about the upcoming OWASP Kuwait City Chapter events.
 
 ---
-
-{% include chapter_events.html group=page.meetup-group %}
