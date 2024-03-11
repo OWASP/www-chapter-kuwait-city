@@ -11,6 +11,31 @@ tags: kuwait
 
 # Past Events
 
+### AI Applications and Cybersecurity Challenges (Joint Event Between OWASP Kuwait City and OWASP Dubai)
+
+**Date:** March 7, 2024
+
+**Location:** Kuwait College of Science & Technology, Doha Area, 7th Ring Road, Kuwait (In-person)
+
+**Agenda:**
+- 09:15 to 10:00    Registration
+- 10:00 to 10:15    Opening
+- 10:15 to 10:45    Keynote: AI CONCERNS
+- 10:45 to 12:00    Panel Discussion
+- 12:00 to 12:30    Break
+- 12:30 to 13:15    Beyond the Code: AI Assistants and the Future of Cybersecurity Practices
+- 13:15 to 14:00    Building AI Application & Impacting the Cybersecurity Requirements
+
+**Panellists:**
+- Prof. Ayed A. Salman
+- Eng. Mohammed Aldoub
+- Eng. Fahad Almasoud
+- Eng. Majid Alqabandi
+
+**Video:** [Playlist](https://www.youtube.com/playlist?list=PLVjQ82zauIerm5YzVP36Ud0C6Ueg9xkSI)
+
+---
+
 ### Saturday February 03, 2024 (In-person)
 
 **Location:** KIF Hall 6 - أرض المعارض
