@@ -46,7 +46,7 @@ As part of the OWASP community, it's important to adhere to our principles and p
 
 ### How to Apply
 
-Interested speakers can apply by filling out our Google form [insert link to the Google form](). Please ensure to provide detailed information about your proposed presentation topic, along with your contact details.
+Interested speakers can apply by filling out our [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSccZR-3qeBCULuYAPbYX6Nliw_unoBw4CGvFEePoN3hT6A3Og/viewform). Please ensure to provide detailed information about your proposed presentation topic, along with your contact details.
 
 We look forward to receiving your submissions and collaborating with you to enrich the cybersecurity landscape in Kuwait!
 
