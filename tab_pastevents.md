@@ -11,6 +11,20 @@ tags: kuwait
 
 # Past Events
 
+### Adopting DevSecOps for Faster and More Secure SDLC
+
+**Date:** April 24, 2024
+
+**Location:** Kuwait College of Science and Technology, first floor, block F, room: F-104 (In-person)
+
+**Speaker:** Ahmad Abdullah - OWASP Dubai Chapter Leader
+
+**Event Link:** [here](https://www.linkedin.com/events/adoptingdevsecopsforfasterandmo7187830867430424576/)
+
+**Video:** [here](https://www.youtube.com/watch?v=Di39b3kBwgc)
+
+---
+
 ### AI Applications and Cybersecurity Challenges (Joint Event Between OWASP Kuwait City and OWASP Dubai)
 
 **Date:** March 7, 2024
