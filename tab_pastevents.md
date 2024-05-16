@@ -11,6 +11,18 @@ tags: kuwait
 
 # Past Events
 
+### Setting Up Command & Control Server (In-Person)
+
+**Speaker:** Fawaz AlMutairi
+
+**Date:** Wednesday May 15, 2024
+
+**Location:** Kuwait University, College of Engineering and Petroleum, North Building, 3rd Floor, Section C1, N03C1074
+
+**Details:** [here](https://www.linkedin.com/events/settingupcommand-controlserver-7194741422816735233)
+
+---
+
 ### Adopting DevSecOps for Faster and More Secure SDLC
 
 **Date:** April 24, 2024
