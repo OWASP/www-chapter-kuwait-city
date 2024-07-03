@@ -32,6 +32,7 @@ Please follow OWASP Kuwait Chapter on the following channels to be notified as s
 **Registration:** [here](https://www.linkedin.com/events/7214242855345655808/about/)
 
 **Description:**
+
 We're excited to have Abdulwahab Alhaji as our speaker, guiding us through the ins and outs of this essential framework. Whether you're a cybersecurity professional, a financial industry expert, or just keen to learn more about regulatory practices in Kuwait, this session is for you. Let's dive deep into how these regulations shape our cybersecurity landscape.
 
 **Language:** English
