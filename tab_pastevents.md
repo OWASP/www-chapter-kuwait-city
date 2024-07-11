@@ -11,6 +11,18 @@ tags: kuwait
 
 # Past Events
 
+### Regulatory Deep-Dive: The Central Bank of Kuwait's Cybersecurity Framework
+
+**Speaker:** Abdulwahab Alhaji - [LinkedIn](https://www.linkedin.com/in/aalhaji/)
+
+**Date:** Tuesday, July 9, 2024
+
+**Event Link:** [here](https://www.linkedin.com/events/7214242855345655808/about/)
+
+**Video:** [here](https://www.youtube.com/watch?v=2U-tRmshrt0)
+
+---
+
 ### Setting Up Command & Control Server (In-Person)
 
 **Speaker:** Fawaz AlMutairi
