@@ -21,18 +21,18 @@ Please follow OWASP Kuwait Chapter on the following channels to be notified as s
 
 ---
 
-## Regulatory Deep-Dive: The Central Bank of Kuwait's Cybersecurity Framework
+## Introduction to Threat Modelling
 
-**Speaker:** Abdulwahab Alhaji - [LinkedIn](https://www.linkedin.com/in/aalhaji/)
+**Speaker:** Tanya Janca - [LinkedIn](https://www.linkedin.com/in/tanya-janca/)
 
-**Date:** Tuesday, July 9, 2024
+**Date:** Tuesday, August 13, 2024
 
-**Time:** 5:00 PM
+**Time:** 07:00PM to 08:00PM (UTC+3)
 
-**Registration:** [here](https://www.linkedin.com/events/7214242855345655808/about/)
+**Registration:** [here](https://www.linkedin.com/events/introductiontothreatmodelling7217220176830734337/about/)
 
 **Description:**
 
-We're excited to have Abdulwahab Alhaji as our speaker, guiding us through the ins and outs of this essential framework. Whether you're a cybersecurity professional, a financial industry expert, or just keen to learn more about regulatory practices in Kuwait, this session is for you. Let's dive deep into how these regulations shape our cybersecurity landscape.
+In this introductory session Tanya covers threat modelling; what is it, how do you get started, why is it an important part of application security, and more. She covers; Adam Shostack’s Four Question Frame, STRIDE and STRIPE, Attack Trees, DREAD, identifying threats, what to bring to a threat model, and how to tell if you’ve done ‘enough’. At the end the audience will do a short threat model, together. 
 
 **Language:** English
