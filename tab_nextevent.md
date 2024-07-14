@@ -21,6 +21,24 @@ Please follow OWASP Kuwait Chapter on the following channels to be notified as s
 
 ---
 
+## HTTP Headers in Phishing Attack Investigations
+
+**Speaker:** Humoud Alsaleh - [LinkedIn](https://www.linkedin.com/in/humoud-alsaleh-513a9bb8/)
+
+**Date:** Monday, July 22, 2024
+
+**Time:** 06:00PM to 07:00PM (Kuwait Time)
+
+**Registration:** [here](https://www.linkedin.com/events/httpheadersinphishingattackinve7218283407158497280/about/)
+
+**Description:**
+
+In this session, Humoud will discuss and demonstrate how certain HTTP headers can be leveraged when responding to phishing incidents.  
+
+**Language:** Arabic
+
+---
+
 ## Introduction to Threat Modelling
 
 **Speaker:** Tanya Janca - [LinkedIn](https://www.linkedin.com/in/tanya-janca/)
