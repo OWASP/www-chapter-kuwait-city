@@ -11,6 +11,18 @@ tags: kuwait
 
 # Past Events
 
+### HTTP Headers in Phishing Attack Investigations
+
+**Speaker:** Humoud Alsaleh - [LinkedIn](https://www.linkedin.com/in/humoud-alsaleh-513a9bb8/)
+
+**Date:** Moday, July 22, 2024
+
+**Event Link:** [here](https://www.linkedin.com/events/httpheadersinphishingattackinve7218283407158497280/about/)
+
+**Video:** [here](https://www.youtube.com/watch?v=wEmgIViPEdU)
+
+---
+
 ### Regulatory Deep-Dive: The Central Bank of Kuwait's Cybersecurity Framework
 
 **Speaker:** Abdulwahab Alhaji - [LinkedIn](https://www.linkedin.com/in/aalhaji/)
