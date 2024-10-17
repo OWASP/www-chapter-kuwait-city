@@ -11,6 +11,18 @@ tags: kuwait
 
 # Past Events
 
+### Enhancing Security Awareness through the Human Layer
+
+**Speaker:** Mohammad Alzatari - [LinkedIn](https://www.linkedin.com/in/mohammad-alzatari-8919b7b8/)
+
+**Date:** Wednesday, October 16, 2024
+
+**Event Link:** [here](https://www.linkedin.com/events/enhancingsecurityawarenessthrou7249484164310134788/about/)
+
+**Video:** [here](https://www.youtube.com/watch?v=pliWP0OPU3U)
+
+---
+
 ### HTTP Headers in Phishing Attack Investigations
 
 **Speaker:** Humoud Alsaleh - [LinkedIn](https://www.linkedin.com/in/humoud-alsaleh-513a9bb8/)
