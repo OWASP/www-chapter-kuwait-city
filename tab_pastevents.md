@@ -11,6 +11,18 @@ tags: kuwait
 
 # Past Events
 
+### OWASP Mobile Top 10
+
+**Speaker:** Adel Mallik - [LinkedIn](https://www.linkedin.com/in/adel-mallik-b021ba153/)
+
+**Date:** Monday, November 11, 2024
+
+**Event Link:** [here](https://www.linkedin.com/events/owaspmobiletop107256362764342837248/about/)
+
+**Video:** [here](https://www.youtube.com/watch?v=cas6xTeSLPw)
+
+---
+
 ### Enhancing Security Awareness through the Human Layer
 
 **Speaker:** Mohammad Alzatari - [LinkedIn](https://www.linkedin.com/in/mohammad-alzatari-8919b7b8/)
