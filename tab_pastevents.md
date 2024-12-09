@@ -11,6 +11,16 @@ tags: kuwait
 
 # Past Events
 
+### What is OWASP?!
+
+**Speaker:** Faisal Albuloushi - [LinkedIn](https://www.linkedin.com/in/falbuloushi/)
+
+**Date:** Tuesday, December 3, 2024
+
+**Event Link:** [here](https://meetu.ps/e/NHnWz/12mrKn/i)
+
+---
+
 ### OWASP Mobile Top 10
 
 **Speaker:** Adel Mallik - [LinkedIn](https://www.linkedin.com/in/adel-mallik-b021ba153/)
