@@ -11,6 +11,29 @@ tags: kuwait
 
 # Past Events
 
+### AI/LLM Applications and Security Event
+A joint event between OWASP Cairo, Dubai and Kuwait City.
+
+**Date:** Saturday January, 18, 2025
+
+**Event Link:** [here](https://www.meetup.com/owasp-kuwait-city-chapter/events/305552133/)
+
+**Location:** Virtual
+
+**First Session:**
+Title: Introduction to AI and LLM based Applications
+
+Speaker: Speaker: Ahmed Abdallah - [LinkedIn](https://www.linkedin.com/in/ayossef/)
+
+**Second Session:**
+Title: OWASP Top 10 LLM
+
+Speaker: George Fahmy - [LinkedIn](https://www.linkedin.com/in/george-fahmy-b0978212a)
+
+**Video:** [here](https://www.youtube.com/watch?v=aujSZe4vPbY)
+
+---
+
 ### What is OWASP?!
 
 **Speaker:** Faisal Albuloushi - [LinkedIn](https://www.linkedin.com/in/falbuloushi/)
