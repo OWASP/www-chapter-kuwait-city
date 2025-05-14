@@ -11,6 +11,18 @@ tags: kuwait
 
 # Past Events
 
+### Introduction to Threat Modelling
+
+**Speaker:** Mohamed Talaat - [LinkedIn](https://www.linkedin.com/in/t4144t/)
+
+**Date:** Sunday, May 11, 2025
+
+**Event Link:** [here](https://www.linkedin.com/events/introductiontothreatmodelling-o7323773658118680576/about/)
+
+**Video:** [here](https://www.youtube.com/watch?v=CRoU5TDJWHQ)
+
+---
+
 ### AI/LLM Applications and Security Event
 A joint event between OWASP Cairo, Dubai and Kuwait City.
 
