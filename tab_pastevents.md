@@ -11,6 +11,18 @@ tags: kuwait
 
 # Past Events
 
+### Designing for Secure Behavior
+
+**Speaker:** Abdul Wahab Alhaji - [LinkedIn](https://www.linkedin.com/in/aalhaji/)
+
+**Date:** Monday, May 26, 2025
+
+**Event Link:** [here](https://www.linkedin.com/events/designingforsecurebehavior-owas7331325748084961284/about/)
+
+**Video:** [here](https://www.youtube.com/watch?v=NU_DFJsVXmc)
+
+---
+
 ### Introduction to Threat Modelling
 
 **Speaker:** Mohamed Talaat - [LinkedIn](https://www.linkedin.com/in/t4144t/)
@@ -94,7 +106,7 @@ Speaker: George Fahmy - [LinkedIn](https://www.linkedin.com/in/george-fahmy-b097
 
 ### Regulatory Deep-Dive: The Central Bank of Kuwait's Cybersecurity Framework
 
-**Speaker:** Abdulwahab Alhaji - [LinkedIn](https://www.linkedin.com/in/aalhaji/)
+**Speaker:** Abdul Wahab Alhaji - [LinkedIn](https://www.linkedin.com/in/aalhaji/)
 
 **Date:** Tuesday, July 9, 2024
 
