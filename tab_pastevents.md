@@ -11,6 +11,16 @@ tags: kuwait
 
 # Past Events
 
+### What is OWASP?!
+
+**Speaker:** Faisal Albuloushi - [LinkedIn](https://www.linkedin.com/in/falbuloushi/)
+
+**Date:** Tuesday, July 1, 2025
+
+**Event Link:** [here](https://www.linkedin.com/events/whatisowasp-owaspkuwaitcity7344751498737635328)
+
+---
+
 ### Designing for Secure Behavior
 
 **Speaker:** Abdul Wahab Alhaji - [LinkedIn](https://www.linkedin.com/in/aalhaji/)
