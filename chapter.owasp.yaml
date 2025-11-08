@@ -1,0 +1,28 @@
+currency: KWD
+leaders:
+  - name: Omar Almutairi
+    email: omar.almutairi@owasp.org
+  - name: Faisal Albuloushi
+    email: faisal.albuloushi@owasp.org
+    github: fwalbuloushi
+  - name: Fatimah Alyousef
+    email: fatimah.alyousef@owasp.org
+    github: fatma8989
+location:
+  country: Kuwait
+  country_code: KW
+  region: Capital Governorate
+  city: Kuwait City
+  latitude: 29.3796532
+  longitude: 47.9734174
+meetup_group: OWASP-Kuwait-City-Chapter
+name: OWASP Kuwait City
+repositories:
+  - name: www-chapter-kuwait-city
+    url: https://github.com/OWASP/www-chapter-kuwait-city
+    description: OWASP Foundation Web Repository
+tags:
+  - kuwait
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-kuwait-city
