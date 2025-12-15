@@ -11,6 +11,21 @@ tags: kuwait
 
 # Past Events
 
+### OWASP SecureApp 2025 – Joint Summit
+
+**Description:**
+OWASP SecureApp 2025 – Joint Summit is a collaborative OWASP initiative between Kuwait City, Dubai and Riyadh OWASP chapters to explore and advance the security of modern application supply chains. This full-day event in Kuwait united practitioners, researchers, and organizations working to build trustworthy and resilient software systems.
+
+**Date:** Monday, November 10, 2025
+
+**Location:** Auditorium, Kuwait College of Science & Technology (KCST), Doha, 7th Ring Road, Kuwait.
+
+**Video Playlist:** [here](https://youtube.com/playlist?list=PLVjQ82zauIepKsvecct1n84w_dHzSUsxY)
+
+**Event Link:** [here](https://meetu.ps/e/PC4FK/12mrKn/i)
+
+---
+
 ### What is OWASP?!
 
 **Speaker:** Faisal Albuloushi - [LinkedIn](https://www.linkedin.com/in/falbuloushi/)
