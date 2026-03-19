@@ -11,6 +11,16 @@ tags: kuwait
 
 # Past Events
 
+### Start with OWASP
+
+**Speaker:** Faisal Albuloushi - [LinkedIn](https://www.linkedin.com/in/falbuloushi/)
+
+**Date:** Wednesday, February 11, 2026
+
+**Location:** Auditorium, Kuwait Technical College (KTECH), Street 5, Block 2, Abu-Halifa, Kuwait.
+
+---
+
 ### OWASP SecureApp 2025 – Joint Summit
 
 **Description:**
