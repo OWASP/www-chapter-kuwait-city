@@ -11,6 +11,18 @@ tags: kuwait
 
 # Past Events
 
+### OWASP Top 10 ... but for OT?!
+
+**Speaker:** Siegfried Hollerer - [LinkedIn](https://www.linkedin.com/in/siegfried-hollerer-1ab397162/)
+
+**Date:** Wednesday, May 6, 2026
+
+**Event Link:** [here](https://www.linkedin.com/events/7447194042947395584/)
+
+**Video:** [here](https://www.youtube.com/watch?v=S2KDeYahqes)
+
+---
+
 ### Start with OWASP
 
 **Speaker:** Faisal Albuloushi - [LinkedIn](https://www.linkedin.com/in/falbuloushi/)
